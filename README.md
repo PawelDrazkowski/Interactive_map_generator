@@ -1,4 +1,4 @@
-# Interactive_map_generator
+# Interactive map generator
 
 Script generates interactive HTML map with countries colored by population. Map also presents markers pointing at largest volcanos in USA, colored by height.
 
